@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/time-complexity-study/static/css/main.8e709ead.css",
-    "main.js": "/time-complexity-study/static/js/main.70eb9621.js",
+    "main.js": "/time-complexity-study/static/js/main.b685f1b7.js",
     "static/media/roboto-all-500-normal.woff": "/time-complexity-study/static/media/roboto-all-500-normal.52cb737b682eb9661ee1.woff",
     "static/media/roboto-all-700-normal.woff": "/time-complexity-study/static/media/roboto-all-700-normal.ef6d1d09b20b877fee4e.woff",
     "static/media/roboto-all-400-normal.woff": "/time-complexity-study/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
@@ -36,10 +36,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/time-complexity-study/static/media/roboto-greek-ext-700-normal.9674bc0ae12c2551d9d1.woff2",
     "index.html": "/time-complexity-study/index.html",
     "main.8e709ead.css.map": "/time-complexity-study/static/css/main.8e709ead.css.map",
-    "main.70eb9621.js.map": "/time-complexity-study/static/js/main.70eb9621.js.map"
+    "main.b685f1b7.js.map": "/time-complexity-study/static/js/main.b685f1b7.js.map"
   },
   "entrypoints": [
     "static/css/main.8e709ead.css",
-    "static/js/main.70eb9621.js"
+    "static/js/main.b685f1b7.js"
   ]
 }
